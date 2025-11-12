@@ -3,16 +3,6 @@
 > A curious builder, lifelong learner, and open-source enthusiast.  
 > I craft delightful developer experiences and ship readable, reliable code.
 
-## 🛠️ Tech Stack & Tools
-
-- Languages: JavaScript / TypeScript, C#, HTML, CSS, Python
-- Frontend: React, Next.js, Tailwind CSS, Redux / Zustand
-- Testing: Jest, React Testing Library
-- Backend / DevOps: Node.js, ASP.NET Express, Docker, GitHub Actions
-- Databases: PostgreSQL, SQL Server
-- Tools: VS Code, Figma, Git, Chrome DevTools
-
----
 
 
 
